@@ -1,4 +1,4 @@
-# Batch-Basic-ATM-Demo
+# Batch ATM
 #### Basic ATM structure in batch script, good reference for absolute beginners.  
 To open/edit source code, right click on downloaded batch file and click "edit". 
 
